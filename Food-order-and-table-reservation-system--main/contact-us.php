@@ -78,8 +78,8 @@ include_once('includes/dbconnection.php');
                                             <div class="contact-info-box">
                                                 <i class="fa fa-envelope"></i>
                                                 <h5 itemprop="headline">EMAIL</h5>
-                                                <p itemprop="description">Milky15@gmail.com</p>
-                                                <p itemprop="description">Mighty28@gmail.com</p>
+                                                <p itemprop="description">asdf@gmail.com</p>
+                                                <p itemprop="description">xcv@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
